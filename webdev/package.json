@@ -1,6 +1,6 @@
 {
-  "name": "ol-workshop",
-  "description": "OpenLayers workshop",
+  "name": "Bikelanes",
+  "description": "Melbourne Bikelane analysis",
   "version": "0.0.0",
   "private": true,
   "main": "main.js",

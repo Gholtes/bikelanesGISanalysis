@@ -1,0 +1,57 @@
+html, body, #map-container, #map-container-1, #map-container-2 {
+	margin: 0;
+	height: 100%;
+	width: 100%;
+	font-family: "Open Sans", "Helvetica", "Arial", sans-serif;
+	color: #555;	
+	background: #FFFFFF;
+}
+
+h1,
+h2,
+h3,
+strong {
+  color: #333;
+}
+
+a {
+	color: #333;
+	cursor: cell;
+	text-decoration: none;
+    padding: 0 3px;
+    border-radius: 3px;
+    background: #00ff0065;
+  }
+
+a:hover {
+	background: #00ff00c0;
+}
+
+
+
+.container {
+	width: 100%;
+	height: 100%;
+	background: #FFFFFF;
+	margin: auto;
+  }
+  
+.one {
+	width: 30%;
+	height: 100%;
+	background:#FFFFFF;
+	float: left;
+	overflow: scroll;
+}
+  
+.two {
+	margin-left: 30%;
+	height: 100%;
+	background: #FFFFFF;
+}
+
+.text {
+	margin-left:7px;
+	margin-right:10px;
+}
+
